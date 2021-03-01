@@ -16,3 +16,12 @@ Developpement d'une imple application de gestion de notes avec HTML5, CSS3 et Ja
 - Bootstrap;
 - Fontawesomes.
 
+***** Configuration du projet *****
+
+L'architecture des fichiers respect l'arborescence suivant:
+1.index.html;
+2.app.js
+3.style.css.
+
+
+
